@@ -1,4 +1,6 @@
 [
+<label>enter the name:<input type="text" ng-model="name"></label><br>
+<span ng-bind="name"></span> 
    {
       "Name" : "Mahesh Parashar",
       "RollNo" : 101,
